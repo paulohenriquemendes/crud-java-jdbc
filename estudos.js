@@ -1,5 +1,0 @@
-console.log("Hellos!");
-
-/*
-Comentários
-*/
